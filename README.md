@@ -1,0 +1,1 @@
+I will be deconstructing and reconstructing the Google homepage. I hope to understand the basics of CSS Grid. This will be a test of my working knowledge of HTML & CSS thus far. 
